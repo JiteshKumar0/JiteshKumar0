@@ -78,38 +78,35 @@ These projects helped me gain practical experience in machine learning, data pre
 
 ## 📂 Projects
 
-  **Hate Speech Detection**
-  - **Description**: Developed a machine learning model to classify text as hateful or non-hateful. Utilized Natural Language Processing (NLP) techniques such as text tokenization, vectorization, and feature 
-      extraction.
-  - **Technologies Used**: Python, Scikit-learn, NLTK, Logistic Regression, SVM
-  - **Key Skills**: Text Preprocessing, Feature Engineering, Model Building, NLP
+### **Hate Speech Detection**
+- **Description**: Developed a machine learning model to classify text as hateful or non-hateful. Utilized Natural Language Processing (NLP) techniques such as text tokenization, vectorization, and feature extraction.
+- **Technologies Used**: Python, Scikit-learn, NLTK, Logistic Regression, SVM
+- **Key Skills**: Text Preprocessing, Feature Engineering, Model Building, NLP
 
- **Spam SMS Classification**
-  - **Description**: Built a model to classify SMS messages as spam or not. Focused on cleaning and processing textual data, applying TF-IDF for feature extraction, and utilizing machine learning models like 
-     Naive Bayes and Random Forest.
-  - **Technologies Used**: Python, Scikit-learn, Pandas, Naive Bayes, Random Forest
-  - **Key Skills**: Data Cleaning, Text Vectorization, Model Evaluation, Classification
+### **Spam SMS Classification**
+- **Description**: Built a model to classify SMS messages as spam or not. Focused on cleaning and processing textual data, applying TF-IDF for feature extraction, and utilizing machine learning models like Naive Bayes and Random Forest.
+- **Technologies Used**: Python, Scikit-learn, Pandas, Naive Bayes, Random Forest
+- **Key Skills**: Data Cleaning, Text Vectorization, Model Evaluation, Classification
 
- **Cancer Prediction**
-  -**Description:** Developed a predictive model to classify cancer likelihood based on medical data, using Logistic Regression and Random Forest.
-  -**Technologies Used:** Python, Scikit-learn, Logistic Regression, Random Forest
-  **Skills:** Machine Learning, Data Preprocessing, Classification
+### **Cancer Prediction**
+- **Description**: Developed a predictive model to classify cancer likelihood based on medical data, using Logistic Regression and Random Forest.
+- **Technologies Used**: Python, Scikit-learn, Logistic Regression, Random Forest
+- **Key Skills**: Machine Learning, Data Preprocessing, Classification
 
- **Online Cakes Ordering System**
-  -**Description:** Created a Python-based console application that simulates an ordering system for bakeries. Users can browse bakery-specific menus, add items to their cart, and complete their purchase using a 
-    chosen payment method.
-  **Features:**
-  -**Multiple Bakeries:** Choose between different bakeries with unique menus.
-  -**Dynamic Menu:** Displays bakery-specific items with prices.
-  -**Cart Management:** Add items to your cart and view the total cost.
-  -**Payment Options:** Select between cash or online payment methods.
-  -**Technologies Used:** Python
-  **Skills:** Python Programming, Console Application Development, Dynamic Menus, User Interaction.
+### **Online Cakes Ordering System**
+- **Description**: Created a Python-based console application that simulates an ordering system for bakeries. Users can browse bakery-specific menus, add items to their cart, and complete their purchase using a chosen payment method.
+  - **Features**:
+    - **Multiple Bakeries**: Choose between different bakeries with unique menus.
+    - **Dynamic Menu**: Displays bakery-specific items with prices.
+    - **Cart Management**: Add items to your cart and view the total cost.
+    - **Payment Options**: Select between cash or online payment methods.
+- **Technologies Used**: Python
+- **Key Skills**: Python Programming, Console Application Development, Dynamic Menus, User Interaction.
 
-  **Login and Registration Pages**
-  -**Description:** Developed basic login and registration pages using HTML and CSS. Focused on creating user-friendly interfaces with simple form validation and responsive design.
-  -**Technologies Used:** HTML, CSS
-  -**Skills:** Front-End Development, Web Design, Responsive Layouts.
+### **Login and Registration Pages**
+- **Description**: Developed basic login and registration pages using HTML and CSS. Focused on creating user-friendly interfaces with simple form validation and responsive design.
+- **Technologies Used**: HTML, CSS
+- **Key Skills**: Front-End Development, Web Design, Responsive Layouts
 
 
 ---
