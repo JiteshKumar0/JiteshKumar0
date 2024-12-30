@@ -1,8 +1,13 @@
-Jitesh Kumar
-Data Scientist | Machine Learning Enthusiast | AI Developer
-👨‍💻 GitHub: https://github.com/JiteshKumar0 | 📧 [Email](Your Email) | 🔗 [LinkedIn](Your LinkedIn)
+# Jitesh Kumar  
+**Data Scientist | Machine Learning Enthusiast | AI Developer**
 
 ---
+
+### 📬 Contact & Links
+ **GitHub**: https://github.com/JiteshKumar0  | **LinkedIn** : https://linkedin.com/JiteshKumar  | **Email**: jiteshkumar78@gmail.com
+
+---
+
 
 ## 👨‍💻 About Me
 
