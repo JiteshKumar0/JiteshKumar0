@@ -1,25 +1,23 @@
-# Jitesh Kumar - AI Specialization | Computer Science & Engineering
-
-**3rd Year, 6th Semester** | Parul University  
-**Email**: jk8819135@gmail.com | **LinkedIn**: https://www.linkedin.com/in/jitesh-kumar-782910262/ | **GitHub**: https://github.com/JiteshKumar0
+Jitesh Kumar
+Data Scientist | Machine Learning Enthusiast | AI Developer
+👨‍💻 GitHub: https://github.com/JiteshKumar0 | 📧 [Email](Your Email) | 🔗 [LinkedIn](Your LinkedIn)
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a 3rd-year Computer Science and Engineering student with a specialization in Artificial Intelligence. 
-I am passionate about applying my skills in Python, Data Science, Machine Learning, and SQL to solve real-world problems. 
-I have completed two online internships in the field of Data Science, where I gained hands-on experience with machine learning algorithms, data analysis, and model deployment.
+I am a passionate and results-driven Data Science and AI enthusiast with a solid foundation in machine learning, data analysis, and model deployment. Over the course of my internships and personal projects, I have developed a strong proficiency in Python, SQL, and machine learning libraries like Pandas, NumPy, and Scikit-learn. I specialize in building predictive models, conducting data analysis, and applying AI techniques to solve complex real-world problems. With hands-on experience in project development, I am eager to continue advancing my skills and contributing to innovative AI and data science solutions that drive meaningful impact.
 
 ---
 
 ## 💼 Skills
 
-- **Programming Languages**: Python, MySQL
+- **Programming Languages**: Python
 - **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Machine Learning**: Supervised & Unsupervised Learning, Regression, Classification, Clustering, Model Evaluation
 - **Databases**: MySQL
 - **Tools**: Jupyter Notebooks, Google Colab, GitHub, Visual Studio
+- **Web Development**: HTML, CSS, Basic Front-End Development
 - **Operating Systems**: Windows
 
 ---
@@ -75,7 +73,7 @@ These projects helped me gain practical experience in machine learning, data pre
 
 ## 📂 Projects
 
-### 1. **Hate Speech Detection**
+  **Hate Speech Detection**
   - **Description**: Developed a machine learning model to classify text as hateful or non-hateful. Utilized Natural Language Processing (NLP) techniques such as text tokenization, vectorization, and feature 
       extraction.
   - **Technologies Used**: Python, Scikit-learn, NLTK, Logistic Regression, SVM
@@ -87,25 +85,27 @@ These projects helped me gain practical experience in machine learning, data pre
   - **Technologies Used**: Python, Scikit-learn, Pandas, Naive Bayes, Random Forest
   - **Key Skills**: Data Cleaning, Text Vectorization, Model Evaluation, Classification
 
-**Credit Default Prediction**  
-   - Designed a classification model to predict the risk of credit default using financial data.
-   - **Technologies Used**: Python, Scikit-learn, Decision Trees, Logistic Regression
+ **Cancer Prediction**
+  -**Description:** Developed a predictive model to classify cancer likelihood based on medical data, using Logistic Regression and Random Forest.
+  -**Technologies Used:** Python, Scikit-learn, Logistic Regression, Random Forest
+  **Skills:** Machine Learning, Data Preprocessing, Classification
 
- **Customer Purchase Prediction**  
-   - Developed a predictive model to forecast customer purchases based on past data and customer features.
-   - **Technologies Used**: Python, Random Forest, Scikit-learn
+ **Online Cakes Ordering System**
+  -**Description:** Created a Python-based console application that simulates an ordering system for bakeries. Users can browse bakery-specific menus, add items to their cart, and complete their purchase using a 
+    chosen payment method.
+  **Features:**
+  -**Multiple Bakeries:** Choose between different bakeries with unique menus.
+  -**Dynamic Menu:** Displays bakery-specific items with prices.
+  -**Cart Management:** Add items to your cart and view the total cost.
+  -**Payment Options:** Select between cash or online payment methods.
+  -**Technologies Used:** Python
+  **Skills:** Python Programming, Console Application Development, Dynamic Menus, User Interaction.
 
- **Diabetes Test Prediction**  
-   - Built a model to predict whether a patient is diabetic based on diagnostic measures.
-   - **Technologies Used**: Python, Logistic Regression, Decision Trees
+  **Login and Registration Pages**
+  -**Description:** Developed basic login and registration pages using HTML and CSS. Focused on creating user-friendly interfaces with simple form validation and responsive design.
+  -**Technologies Used:** HTML, CSS
+  -**Skills:** Front-End Development, Web Design, Responsive Layouts.
 
- **Financial Market News Sentiment Analysis**  
-   - Performed sentiment analysis on financial news articles to predict stock price movements.
-   - **Technologies Used**: Python, NLP, Sentiment Analysis
-
- **Fish Weight Prediction**  
-   - Developed a regression model to predict the weight of fish based on features like length and width.
-   - **Technologies Used**: Python, Linear Regression, Scikit-learn
 
 ---
 
