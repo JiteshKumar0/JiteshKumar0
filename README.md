@@ -103,8 +103,8 @@ These projects helped me gain practical experience in machine learning, data pre
 - **Technologies Used**: Python
 - **Key Skills**: Python Programming, Console Application Development, Dynamic Menus, User Interaction.
 
-### **Login and Registration Pages**
-- **Description**: Developed basic login and registration pages using HTML and CSS. Focused on creating user-friendly interfaces with simple form validation and responsive design.
+### **UI Design and Development**
+- **Description**: Develops UI interfaces using HTML and CSS, focusing on creating user-friendly layouts with simple form validation and responsive design..
 - **Technologies Used**: HTML, CSS
 - **Key Skills**: Front-End Development, Web Design, Responsive Layouts
 
