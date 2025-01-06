@@ -103,10 +103,11 @@ These projects helped me gain practical experience in machine learning, data pre
 - **Technologies Used**: Python
 - **Key Skills**: Python Programming, Console Application Development, Dynamic Menus, User Interaction.
 
-### **UI Design and Development**
-- **Description**: Develops UI interfaces using HTML and CSS, focusing on creating user-friendly layouts with simple form validation and responsive design..
-- **Technologies Used**: HTML, CSS
-- **Key Skills**: Front-End Development, Web Design, Responsive Layouts
+### **Loan Application Data Analysis**  
+- **Description**: Conducted a comprehensive analysis of loan application data to uncover patterns, trends, and insights. The project involved cleaning and preprocessing data, performing exploratory data analysis (EDA), and visualizing relationships between applicant attributes, credit history, and loan outcomes. Key findings included trends in income, credit requests, and application timing.  
+- **Technologies Used**: Python, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- **Key Skills**: Data Cleaning, EDA, Data Visualization, Feature Engineering, Insight Generation  
+
 
 
 ---
