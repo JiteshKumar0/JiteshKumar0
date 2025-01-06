@@ -76,7 +76,7 @@ These projects helped me gain practical experience in machine learning, data pre
 
 ---
 
-## 📂 Projects
+## 📂 Personal Projects
 
 ### **Hate Speech Detection**
 - **Description**: Developed a machine learning model to classify text as hateful or non-hateful. Utilized Natural Language Processing (NLP) techniques such as text tokenization, vectorization, and feature extraction.
